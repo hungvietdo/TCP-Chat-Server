@@ -1,7 +1,9 @@
 /*
-    C socket server example, handles multiple clients using threads
-    Compile
-    gcc server.c -lpthread -o server
+    I used some code from this https://gist.github.com/silv3rm00n/5821760
+    Let me know if you have any question
+    Hung Do
+    hdo@cs.odu.edu
+    
 */
  
 #define	LISTENQ		1024	/* 2nd argument to listen() */
